@@ -1,0 +1,23 @@
+header {
+  background: url("https://pre00.deviantart.net/edf3/th/pre/i/2013/238/9/9/fire_vs_water_by_ade_darkstone-d6jt1d7.jpg");
+  color: orange;
+  
+}
+
+header a {
+  color: orange;
+}
+
+
+#demoFont {
+font-family: Impact, Charcoal, sans-serif;
+font-size: 28px;
+letter-spacing: 2.6px;
+word-spacing: 0.8px;
+color: #FF0000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
